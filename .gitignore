@@ -5,6 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-lock.yaml
 package-lock.json
+web-server-test-ec2.pem
 
 # ====== ENV & SECRETS (SANGAT PENTING) ======
 .env
