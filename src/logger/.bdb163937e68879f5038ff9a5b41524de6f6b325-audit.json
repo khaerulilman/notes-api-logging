@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\Users\\hp\\Desktop\\freecodecourse\\notes-api-logging\\src\\logger\\.bdb163937e68879f5038ff9a5b41524de6f6b325-audit.json",
+    "files": [
+        {
+            "date": 1768841426833,
+            "name": "C:\\Users\\hp\\Desktop\\freecodecourse\\notes-api-logging\\src\\logger\\application-2026-01-19-23.log",
+            "hash": "fbcbcb24c8ab3a5a0d88bcf433798411ac103f73ac20aaa0e333be83f25f6a49"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,40 @@
+# ====== NODE.JS ======
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+
+# ====== ENV & SECRETS (SANGAT PENTING) ======
+.env
+.env.local
+.env.*.local
+
+# ====== LOG FILES ======
+logs/
+*.log
+error.log
+combined.log
+
+# ====== OS FILES ======
+.DS_Store
+Thumbs.db
+
+# ====== EDITOR / IDE ======
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ====== BUILD / CACHE ======
+dist/
+build/
+coverage/
+.cache/
+
+# ====== AWS / TEMP FILES ======
+.aws/
+.aws-sam/
+*.pem
+*.key
