@@ -9,6 +9,6 @@ app.use(express.json());
 app.use(loggingMiddleware);
 app.use("/", notes);
 
-app.listen(port, "0.0.0.0", () => {
-  console.log(`server start at http://0.0.0.0:${port}`);
+app.listen(port, () => {
+  console.log(`server start at http://localhost:${port}`);
 });
